@@ -1,0 +1,29 @@
+{
+  "name": "upendo",
+  "version": "1.0.0",
+  "description": "Hii ni theme inayotumia sass na imetumia underscores",
+  "main": "index.php",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesayasoftware/upendo.git"
+  },
+  "keywords": [
+    "sass",
+    "grunt",
+    "autoprefixer",
+    "underscores",
+    "wordpress"
+  ],
+  "author": "Yesaya R. Athuman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yesayasoftware/upendo/issues"
+  },
+  "homepage": "https://github.com/yesayasoftware/upendo#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
